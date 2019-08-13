@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liam Collins"
 title_separator          : "-"
 name                     : &name "Liam Collins"
-description              : &description "PhD Student in the ECE Department at UT Austin"
+description              : &description "PhD Student, UT Austin ECE"
 url                      : https://liamc2196.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liamc2196/liamc2196.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liam Collins"
   avatar           : "profile.png"
-  bio              : "PhD Student in the ECE Department at UT Austin"
+  bio              : "PhD Student, UT Austin ECE"
   location         : "Austin, TX"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
