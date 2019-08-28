@@ -19,11 +19,11 @@ We investigate the interpretable gradients phenomenon for robustly-trained CNNs 
 **Liam Collins**, advised by Prof. Yuxin Chen   
 Senior thesis, Spring 2019, Princeton University  
 Awarded G. David Forney Jr. Prize for excellence in Communication Science, Systems and Signals  
-Comprehensive overview of traditional and recent techniques for NMF, along with thorough experimental comparison of methods and an evaluation of NMF applied to educational datasets.  
+A comprehensive overview of traditional and recent techniques for NMF, along with thorough experimental comparison of methods and an evaluation of NMF applied to educational datasets.  
 
 [Expository Work - Spectral Methods Meet EM: A Provably Optimal Method for Crowdsourcing](https://liamc2196.github.io/files/ele538b_proposal.pdf)  
 **Liam Collins**  
 Class project for ELE 538B, Fall 2018, Princeton University   
-An overview of [this paper](https://liamc2196.github.io/files/spectral.pdf).
+An overview of [this paper](https://papers.nips.cc/paper/5431-spectral-methods-meet-em-a-provably-optimal-algorithm-for-crowdsourcing.pdf).
 
 
