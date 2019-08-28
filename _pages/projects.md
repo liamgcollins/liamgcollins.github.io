@@ -24,6 +24,6 @@ Comprehensive overview of traditional and recent techniques for NMF, along with 
 [Expository Work - Spectral Methods Meet EM: A Provably Optimal Method for Crowdsourcing](https://liamc2196.github.io/files/ele538b_proposal.pdf)  
 **Liam Collins**  
 Class project for ELE 538B, Fall 2018, Princeton University   
-An overview of the paper [here](https://liamc2196.github.io/files/spectral.pdf)  .
+An overview of [this paper](https://liamc2196.github.io/files/spectral.pdf).
 
 
