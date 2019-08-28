@@ -12,4 +12,3 @@ I am a first-year PhD student in the Decision, Information and Communication Eng
 
 Prior to attending UT, I completed my BSE in Electrical Engineering at Princeton University, where I had the good fortune to be advised by [Prof. Yuxin Chen](https://www.princeton.edu/~yc5/). I also spent two of my summers working in the Advanced RF Techniques and Systems group at MIT Lincoln Laboratory as an undergrad.
 
-test
