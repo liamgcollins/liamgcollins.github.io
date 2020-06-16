@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Task-Robust Model-Agnostic Meta-Learning  
+**Task-Robust Model-Agnostic Meta-Learning**  
 **Liam Collins**, Aryan Mokhtari, Sanjay Shakkottai   
 June 2019  
 Submitted  
