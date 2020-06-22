@@ -19,3 +19,4 @@ author_profile: true
 **Liam Collins**, Aryan Mokhtari, Sanjay Shakkottai   
 June 2019  
 Submitted  
+[arxiv](https://arxiv.org/abs/2002.04766)
