@@ -17,6 +17,5 @@ author_profile: true
 
 **Task-Robust Model-Agnostic Meta-Learning**  
 **Liam Collins**, Aryan Mokhtari, Sanjay Shakkottai   
-June 2019  
-Submitted  
+NeurIPS 2020
 [\[PDF\]](https://arxiv.org/abs/2002.04766)
