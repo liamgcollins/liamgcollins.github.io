@@ -21,9 +21,4 @@ Gene Li, **Liam Collins**, and Walter Li
 Class project for COS 511, Spring 2019, Princeton University  
 We investigate the interpretable gradients phenomenon for robustly-trained CNNs and fully connected NNs, and provide theoretical explanation for interpretable gradients in a modified Bernoulli model.  
 
-[Expository Work - Spectral Methods Meet EM: A Provably Optimal Method for Crowdsourcing](https://liamc2196.github.io/files/ele538b_proposal.pdf)  
-**Liam Collins**  
-Class project for ELE 538B, Fall 2018, Princeton University   
-An overview of [this paper](https://papers.nips.cc/paper/5431-spectral-methods-meet-em-a-provably-optimal-algorithm-for-crowdsourcing.pdf).
-
 
