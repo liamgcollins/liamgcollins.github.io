@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://liamc2196.github.io/files/LiamCollins_Resume_Aug19.pdf)
+<!--[Download CV](https://liamc2196.github.io/files/LiamCollins_Resume_Aug19.pdf)-->
