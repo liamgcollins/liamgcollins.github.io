@@ -24,7 +24,7 @@ Learning**
 
 **Why Does MAML Outperform ERM? An Optimization
 Perspective**  
-*LC, Aryan Mokhtari, Sanjay Shakkottai* 
+*LC, Aryan Mokhtari, Sanjay Shakkottai*  
 [\[PDF\]](https://arxiv.org/pdf/2010.14672.pdf)
      
 **Conference Papers**
