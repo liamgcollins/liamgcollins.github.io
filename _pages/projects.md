@@ -15,8 +15,9 @@ redirect_from:
 **Liam Collins**, advised by Prof. Yuxin Chen   
 Senior thesis, Spring 2019, Princeton University  
 Awarded G. David Forney Jr. Prize for excellence in Communication Science, Systems and Signals  
-A comprehensive overview of traditional and recent techniques for NMF, along with thorough experimental comparison of methods and an evaluation of NMF applied to educational datasets.  
+A comprehensive overview of traditional and recent techniques for NMF, along with thorough experimental comparison of methods and an evaluation of NMF applied to educational datasets.  %}
 
+{%
 [Interpretable Gradients with Robust Training](https://liamc2196.github.io/files/cos511_adversarial.pdf)  
 Gene Li, **Liam Collins**, and Walter Li    
 Class project for COS 511, Spring 2019, Princeton University  
