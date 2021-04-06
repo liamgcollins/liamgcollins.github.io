@@ -15,7 +15,7 @@ author_profile: true
           {% include archive-single.html %}
      {% endfor %}--->
      
-# Preprints
+## Preprints
 
 **Exploiting Shared Representations for Personalized Federated
 Learning**  
@@ -27,7 +27,7 @@ Perspective**
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
 [\[PDF\]](https://arxiv.org/pdf/2010.14672.pdf)
      
-# Conference Papers
+## Conference Papers
 
 **Task-Robust Model-Agnostic Meta-Learning**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
