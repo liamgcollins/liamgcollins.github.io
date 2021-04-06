@@ -29,7 +29,7 @@ Perspective**
      
 # Conference Papers
 
-**Task-Robust Model-Agnostic Meta-Learning**  
+<font size="1"> **Task-Robust Model-Agnostic Meta-Learning**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
 NeurIPS 2020  
-[\[PDF\]](https://arxiv.org/abs/2002.04766.pdf)
+[\[PDF\]](https://arxiv.org/abs/2002.04766.pdf)</font>
