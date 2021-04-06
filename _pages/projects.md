@@ -21,7 +21,7 @@ Gene Li, **Liam Collins**, and Walter Li
 Class project for COS 511, Spring 2019, Princeton University  
 We investigate the interpretable gradients phenomenon for robustly-trained CNNs and fully connected NNs, and provide theoretical explanation for interpretable gradients in a modified Bernoulli model. -->
 
-*Conference Reviewer*
+## Conference Reviewer
 
 AISTATS 2020  
 ICML 2020
