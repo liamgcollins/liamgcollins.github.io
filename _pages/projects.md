@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Teaching and Service"
-permalink: /service/
+permalink: /teachingservice/
 author_profile: true
 paperurl: 'https://liamc2196.github.io/files/LiamCollins_Resume_Aug19.pdf'
 redirect_from:
-  - /service
+  - /teachingservice
 ---
 
 {% include base_path %}
