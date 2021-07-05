@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service"
+title: "Teaching and Service"
 permalink: /service/
 author_profile: true
 paperurl: 'https://liamc2196.github.io/files/LiamCollins_Resume_Aug19.pdf'
@@ -21,8 +21,23 @@ Gene Li, **Liam Collins**, and Walter Li
 Class project for COS 511, Spring 2019, Princeton University  
 We investigate the interpretable gradients phenomenon for robustly-trained CNNs and fully connected NNs, and provide theoretical explanation for interpretable gradients in a modified Bernoulli model. -->
 
+## Teaching Assistant
+
+Data Science Laboratory
+UT Austin
+Fall 2019, Spring 2020
+
+Car Lab
+Princeton University
+Spring 2019
+
+Logic Design
+Princeton University
+Fall 2018, Fall 2017
+
 ## Conference Reviewer
 
+NeurIPS 2021
 ICML 2021   
 AISTATS 2020  
 
