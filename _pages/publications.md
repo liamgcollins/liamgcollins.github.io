@@ -17,11 +17,6 @@ author_profile: true
      
 ## Preprints
 
-**Exploiting Shared Representations for Personalized Federated
-Learning**  
-*LC, Hamed Hassani, Aryan Mokhtari, Sanjay Shakkottai*  
-[\[PDF\]](https://arxiv.org/pdf/2102.07078.pdf)
-
 **Why Does MAML Outperform ERM? An Optimization
 Perspective**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
@@ -29,7 +24,12 @@ Perspective**
      
 ## Conference Papers
 
+**Exploiting Shared Representations for Personalized Federated
+Learning**  
+*LC, Hamed Hassani, Aryan Mokhtari, Sanjay Shakkottai*  
+[\[PDF\]](https://arxiv.org/pdf/2102.07078.pdf) [\[Code\]](https://github.com/lgcollins/FedRep)
+
 **Task-Robust Model-Agnostic Meta-Learning**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
 NeurIPS 2020  
-[\[PDF\]](https://arxiv.org/abs/2002.04766.pdf)
+[\[PDF\]](https://arxiv.org/abs/2002.04766.pdf) [\[Code\]](https://github.com/lgcollins/tr-maml)
