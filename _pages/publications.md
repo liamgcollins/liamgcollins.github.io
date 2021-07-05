@@ -27,6 +27,7 @@ Perspective**
 **Exploiting Shared Representations for Personalized Federated
 Learning**  
 *LC, Hamed Hassani, Aryan Mokhtari, Sanjay Shakkottai*  
+ICML 2021
 [\[PDF\]](https://arxiv.org/pdf/2102.07078.pdf) [\[Code\]](https://github.com/lgcollins/FedRep)
 
 **Task-Robust Model-Agnostic Meta-Learning**  
