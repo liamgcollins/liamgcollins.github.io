@@ -25,15 +25,15 @@ We investigate the interpretable gradients phenomenon for robustly-trained CNNs 
 
 Data Science Laboratory   
 UT Austin   
-Fall 2019, Spring 2020    
+*Fall 2019, Spring 2020*    
 
 Car Lab   
 Princeton University    
-Spring 2019 
+*Spring 2019* 
 
 Logic Design    
 Princeton University    
-Fall 2018, Fall 2017    
+*Fall 2018, Fall 2017*    
 
 ## Conference Reviewer
 
