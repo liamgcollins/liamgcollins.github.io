@@ -37,7 +37,7 @@ Princeton University
 
 ## Conference Reviewer
 
-NeurIPS 2021    
+NeurIPS 2021 *Outstanding Reviewer Award, top 8% of reviewers*
 ICML 2021   
 AISTATS 2020  
 
