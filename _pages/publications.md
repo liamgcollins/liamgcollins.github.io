@@ -17,8 +17,7 @@ author_profile: true
      
 ## Preprints
 
-**Why Does MAML Outperform ERM? An Optimization
-Perspective**  
+**How does the Task Landscape Affect MAML Performance?**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
 [\[PDF\]](https://arxiv.org/pdf/2010.14672.pdf)
      
