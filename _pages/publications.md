@@ -17,7 +17,7 @@ author_profile: true
      
 ## Preprints
 
-**MAML and ANIL Provably Learn Representations**
+**MAML and ANIL Provably Learn Representations**  
 *LC, Aryan Mokhtari, Sewoong Oh, Sanjay Shakkottai*
 [\[PDF\]][https://arxiv.org/pdf/2202.03483.pdf]
 
