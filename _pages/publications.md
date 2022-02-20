@@ -18,7 +18,7 @@ author_profile: true
 ## Preprints
 
 **MAML and ANIL Provably Learn Representations**  
-*LC, Aryan Mokhtari, Sewoong Oh, Sanjay Shakkottai*
+*LC, Aryan Mokhtari, Sewoong Oh, Sanjay Shakkottai*  
 [\[PDF\]][https://arxiv.org/pdf/2202.03483.pdf]
 
 **How does the Task Landscape Affect MAML Performance?**  
