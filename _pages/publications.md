@@ -19,21 +19,21 @@ author_profile: true
 
 **MAML and ANIL Provably Learn Representations**  
 *LC, Aryan Mokhtari, Sewoong Oh, Sanjay Shakkottai*  
-ICML 2022   
+ICML 2022     
 [\[PDF\]](https://arxiv.org/pdf/2202.03483.pdf)
 
 **How does the Task Landscape Affect MAML Performance?**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
-CoLLAs 2022   
+CoLLAs 2022     
 [\[PDF\]](https://arxiv.org/pdf/2010.14672.pdf)
 
 **Exploiting Shared Representations for Personalized Federated
 Learning**  
 *LC, Hamed Hassani, Aryan Mokhtari, Sanjay Shakkottai*  
-ICML 2021
+ICML 2021    
 [\[PDF\]](https://arxiv.org/pdf/2102.07078.pdf) [\[Code\]](https://github.com/lgcollins/FedRep)
 
 **Task-Robust Model-Agnostic Meta-Learning**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
-NeurIPS 2020  
+NeurIPS 2020    
 [\[PDF\]](https://arxiv.org/abs/2002.04766.pdf) [\[Code\]](https://github.com/lgcollins/tr-maml)
