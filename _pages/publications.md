@@ -15,17 +15,17 @@ author_profile: true
           {% include archive-single.html %}
      {% endfor %}--->
      
-## Preprints
+## Conference Papers
 
 **MAML and ANIL Provably Learn Representations**  
 *LC, Aryan Mokhtari, Sewoong Oh, Sanjay Shakkottai*  
+ICML 2022   
 [\[PDF\]](https://arxiv.org/pdf/2202.03483.pdf)
 
 **How does the Task Landscape Affect MAML Performance?**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
+CoLLAs 2022   
 [\[PDF\]](https://arxiv.org/pdf/2010.14672.pdf)
-     
-## Conference Papers
 
 **Exploiting Shared Representations for Personalized Federated
 Learning**  
