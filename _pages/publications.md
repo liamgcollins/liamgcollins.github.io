@@ -17,6 +17,11 @@ author_profile: true
      
 ## Conference Papers
 
+**FedAvg with Fine-Tuning: Local Updates Lead to Representation Learning**  
+*LC, Hamed Hassani, Aryan Mokhtari, Sanjay Shakkottai*  
+NeurIPS 2022     
+[\[PDF\]](https://arxiv.org/pdf/2205.13692.pdf)
+
 **MAML and ANIL Provably Learn Representations**  
 *LC, Aryan Mokhtari, Sewoong Oh, Sanjay Shakkottai*  
 ICML 2022     
@@ -24,7 +29,7 @@ ICML 2022
 
 **How does the Task Landscape Affect MAML Performance?**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
-CoLLAs 2022     
+CoLLAs 2022 *Oral Presentation*
 [\[PDF\]](https://arxiv.org/pdf/2010.14672.pdf)
 
 **Exploiting Shared Representations for Personalized Federated
