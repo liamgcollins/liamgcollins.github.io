@@ -29,7 +29,7 @@ ICML 2022
 
 **How does the Task Landscape Affect MAML Performance?**  
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
-CoLLAs 2022 *Oral Presentation*
+CoLLAs 2022 *Oral Presentation*   
 [\[PDF\]](https://arxiv.org/pdf/2010.14672.pdf)
 
 **Exploiting Shared Representations for Personalized Federated
