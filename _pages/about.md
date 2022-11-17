@@ -12,14 +12,19 @@ redirect_from:
 
 I am a fourth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I am interested in the theoretical foundations of multi-task learning, particularly in federated learning and meta-learning contexts. Before UT, I did my undergraduate at Princeton University, where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
 
-## Talks
+My CV can be found here (updated 11/2022).
 
+## Recent News
+
+- In October 2022 I gave a [talk](https://sites.google.com/view/one-world-seminar-series-flow/archive/2022) on representation learning in federated learning at the Federated Learning One World (FLOW) Seminar.
+
+- I interned at Amazon Alexa in summer 2022 under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information.
 
 
 ## Publications
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  My articles can also be found on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
