@@ -12,11 +12,11 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
-  - title: "Teaching and Service"
-    url: /teachingservice/
+#   - title: "Teaching and Service"
+#     url: /teachingservice/
     
 #   - title: "CV"
 #     url: /cv/
