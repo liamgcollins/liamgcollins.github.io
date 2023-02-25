@@ -18,20 +18,24 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 - In October 2022 I gave a [talk](https://sites.google.com/view/one-world-seminar-series-flow/archive/2022) on representation learning in federated learning at the Federated Learning One World (FLOW) Seminar.
 
-- I interned at Amazon Alexa in summer 2022 under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information.
+- In summer 2022 I interned at Amazon Alexa under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information.
 
 
 ## Publications
 
-{% if author.googlescholar %}
-  My articles can also be found on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For the most updated list of my publications please see my <u><a href="{{https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en}}">Google Scholar profile</a>.</u>
+
 
 {% include base_path %}
 
 <!---{% for post in site.publications reversed %}
           {% include archive-single.html %}
      {% endfor %}--->
+     
+**InfoNCE Provably Learns Cluster-Preserving Representations**  
+*Advait Parulekar, LC, Karthikeyan Shanmugam, Aryan Mokhtari, Sanjay Shakkottai*  
+arXiv preprint   
+[\[PDF\]](https://arxiv.org/pdf/2302.07920.pdf)
 
 **FedAvg with Fine-Tuning: Local Updates Lead to Representation Learning**  
 *LC, Hamed Hassani, Aryan Mokhtari, Sanjay Shakkottai*  
