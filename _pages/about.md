@@ -12,7 +12,7 @@ redirect_from:
 
 I am a fourth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I am interested in the theoretical foundations of multi-task learning, particularly in federated learning and few-shot learning contexts. Before UT, I did my undergraduate at Princeton University, where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
 
-[]: # (My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) \updated 11/2022\.)
+[//]: # (My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) updated 11/2022.)
 
 ## Recent News
 
