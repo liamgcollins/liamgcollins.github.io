@@ -18,9 +18,9 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## Recent News
 
-- In October 2022 I gave a [talk](https://sites.google.com/view/one-world-seminar-series-flow/archive/2022) on representation learning in federated learning at the Federated Learning One World (FLOW) Seminar.
+- **October 2022:** I gave a [talk](https://sites.google.com/view/one-world-seminar-series-flow/archive/2022) on representation learning in federated learning at the Federated Learning One World (FLOW) Seminar.
 
-- In summer 2022 I interned at Amazon Alexa under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information.
+- **Summer 2022:** I interned at Amazon Alexa under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information.
 
 
 ## Publications
