@@ -11,9 +11,9 @@ title                    : "Liam Collins"
 title_separator          : "-"
 name                     : &name "Liam Collins"
 description              : &description "PhD Student, UT Austin ECE"
-url                      : https://liamc2196.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liamgcollins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liamc2196/liamc2196.github.io"
+repository               : "liamgcollins/liamgcollins.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
