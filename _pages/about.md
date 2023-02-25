@@ -10,9 +10,9 @@ redirect_from:
 
 **About Me**
 
-I am a fourth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I am interested in the theoretical foundations of multi-task learning, particularly in federated learning and meta-learning contexts. Before UT, I did my undergraduate at Princeton University, where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
+I am a fourth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I am interested in the theoretical foundations of multi-task learning, particularly in federated learning and few-shot learning contexts. Before UT, I did my undergraduate at Princeton University, where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
 
-My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
+[]: # My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
 
 ## Recent News
 
@@ -23,7 +23,7 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## Publications
 
-For the most updated list of my publications please see my <u><a href="{{https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en}}">Google Scholar profile</a>.</u>
+For the most updated list of my publications please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en).
 
 
 {% include base_path %}
