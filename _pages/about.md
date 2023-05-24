@@ -18,6 +18,8 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## Recent News
 
+- **May 2022:** Our paper [InfoNCE Loss Provably Learns Cluster-Preserving Representations](https://arxiv.org/pdf/2302.07920.pdf) was accepted at COLT 2023.
+
 - **October 2022:** I gave a [talk](https://sites.google.com/view/one-world-seminar-series-flow/archive/2022) on representation learning in federated learning at the Federated Learning One World (FLOW) Seminar.
 
 - **Summer 2022:** I interned at Amazon Alexa under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information.
@@ -36,7 +38,7 @@ For the most updated list of my publications please see my [Google Scholar profi
      
 **InfoNCE Provably Learns Cluster-Preserving Representations**  
 *Advait Parulekar, LC, Karthikeyan Shanmugam, Aryan Mokhtari, Sanjay Shakkottai*  
-arXiv preprint   
+COLT 2023  
 [\[PDF\]](https://arxiv.org/pdf/2302.07920.pdf)
 
 **FedAvg with Fine-Tuning: Local Updates Lead to Representation Learning**  
