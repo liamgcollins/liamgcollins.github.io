@@ -18,7 +18,7 @@ My email is liamc at utexes dot edu.
 My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
 --->
 
-## Recent News
+## News
 
 - **October 2023:** 
 
