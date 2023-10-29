@@ -10,13 +10,19 @@ redirect_from:
 
 **About Me**
 
-I am a fourth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I am interested in the theoretical foundations of multi-task learning, particularly in federated learning and few-shot learning contexts. Before UT, I did my undergraduate at Princeton University, where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
+I am a fifth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I am interested in understanding and improving ways to leverage data across many tasks via multi-task learning, particularly in federated and few-shot contexts. Before UT, I did my undergraduate at Princeton University, where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
+
+My email is liamc at utexes dot edu.
 
 <!---
 My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
 --->
 
 ## Recent News
+
+- **October 2023:** 
+
+- **Summer 2023:** I interned at Google Research, working with [Shanshan Wu](https://wushanshan.github.io/), [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/), and [Khe Chai Sim](https://scholar.google.com/citations?user=jnU62sUAAAAJ&hl=en).
 
 - **May 2022:** Our paper [InfoNCE Loss Provably Learns Cluster-Preserving Representations](https://arxiv.org/pdf/2302.07920.pdf) was accepted at COLT 2023.
 
