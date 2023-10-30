@@ -53,7 +53,7 @@ FL@FM-NeurIPS'23
 
 **Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks**  
 *LC, Hamed Hassani, Mahdi Soltanolkotabi, Aryan Mokhtari, Sanjay Shakkottai*  
-arxiv preprint
+arxiv preprint  
 [\[PDF\]](https://arxiv.org/pdf/2307.06887.pdf)
      
 **InfoNCE Provably Learns Cluster-Preserving Representations**  
