@@ -14,26 +14,30 @@ I am a fifth-year PhD student at the University of Texas at Austin co-advised by
 
 My email is liamc at utexes dot edu.
 
+I am on the market for industry positions starting in Summer 2024.
+
 <!---
 My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
 --->
 
 ## News
 
-- **October 2023:** 
+- **October 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) on federated prompt tuning was accepted at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
 
-- **Summer 2023:** I interned at Google Research, working with [Shanshan Wu](https://wushanshan.github.io/), [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/), and [Khe Chai Sim](https://scholar.google.com/citations?user=jnU62sUAAAAJ&hl=en).
+- **Summer 2023:** I interned at Google Research, working with [Shanshan Wu](https://wushanshan.github.io/), [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/), and [Khe Chai Sim](https://scholar.google.com/citations?user=jnU62sUAAAAJ&hl=en) on federated prompt tuning of large language models.
 
-- **May 2022:** Our paper [InfoNCE Loss Provably Learns Cluster-Preserving Representations](https://arxiv.org/pdf/2302.07920.pdf) was accepted at COLT 2023.
+- **June 2023:** New [paper](https://arxiv.org/pdf/2307.06887.pdf) on multi-task learning with two-layer ReLU networks.
+
+- **May 2023:** Our paper [InfoNCE Loss Provably Learns Cluster-Preserving Representations](https://arxiv.org/pdf/2302.07920.pdf) was accepted at COLT 2023.
 
 - **October 2022:** I gave a [talk](https://sites.google.com/view/one-world-seminar-series-flow/archive/2022) on representation learning in federated learning at the Federated Learning One World (FLOW) Seminar.
 
-- **Summer 2022:** I interned at Amazon Alexa under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information.
+- **Summer 2022:** I interned at Amazon Alexa under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information. Our [paper](https://openreview.net/forum?id=HRZjvFkX-faD) was accepted at [FL-NeurIPS'22](https://federated-learning.org/fl-neurips-2022/). 
 
 
-## Publications
+## Papers
 
-For the most updated list of my publications please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en).
+For the most updated list of papers, please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en).
 
 
 {% include base_path %}
@@ -41,6 +45,16 @@ For the most updated list of my publications please see my [Google Scholar profi
 <!---{% for post in site.publications reversed %}
           {% include archive-single.html %}
      {% endfor %}--->
+
+**Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**  
+*LC, Shanshan Wu, Sewoong Oh, Khe Chai Sim*  
+FL@FM-NeurIPS'23  
+[\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf)
+
+**Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks**  
+*LC, Hamed Hassani, Mahdi Soltanolkotabi, Aryan Mokhtari, Sanjay Shakkottai*  
+arxiv preprint
+[\[PDF\]](https://arxiv.org/pdf/2307.06887.pdf)
      
 **InfoNCE Provably Learns Cluster-Preserving Representations**  
 *Advait Parulekar, LC, Karthikeyan Shanmugam, Aryan Mokhtari, Sanjay Shakkottai*  
