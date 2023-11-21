@@ -12,7 +12,7 @@ redirect_from:
 
 I am a fifth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I am interested in understanding and improving ways to leverage data across many tasks via multi-task learning, particularly in federated and few-shot contexts. Before UT, I did my undergraduate at Princeton University where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
 
-My email is liamc at utexes dot edu.
+My email is liamc at utexas dot edu.
 
 I am on the market for industry positions starting in Summer 2024.
 
@@ -22,7 +22,7 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## News
 
-- **October 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) on federated prompt tuning was accepted at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
+- **October 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) on federated prompt tuning was accepted for Oral Presentation at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
 
 - **Summer 2023:** I interned at Google Research, working with [Shanshan Wu](https://wushanshan.github.io/), [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/), and [Khe Chai Sim](https://scholar.google.com/citations?user=jnU62sUAAAAJ&hl=en) on federated prompt tuning of large language models.
 
@@ -48,7 +48,7 @@ For the most updated list of papers, please see my [Google Scholar profile](http
 
 **Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**  
 *LC, Shanshan Wu, Sewoong Oh, Khe Chai Sim*  
-FL@FM-NeurIPS'23  
+FL@FM-NeurIPS'23  *Oral Presentation*
 [\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf)
 
 **Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks**  
