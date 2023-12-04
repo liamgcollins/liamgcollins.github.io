@@ -14,8 +14,6 @@ I am a fifth-year PhD student at the University of Texas at Austin co-advised by
 
 My email is liamc at utexas dot edu.
 
-I am on the market for industry positions starting in Summer 2024.
-
 <!---
 My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
 --->
