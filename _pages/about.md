@@ -10,7 +10,7 @@ redirect_from:
 
 **About Me**
 
-I am a fifth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I am interested in understanding and improving ways to leverage data across many tasks via multi-task learning, particularly in federated and few-shot contexts. Before UT, I completed my undergraduate degree at Princeton University where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
+I'm a fifth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I'm interested in understanding and improving ways to leverage data across many tasks via multi-task learning, particularly in federated and few-shot contexts. Before UT, I completed my undergrad at Princeton University where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). 
 
 My email is liamc at utexas dot edu.
 
