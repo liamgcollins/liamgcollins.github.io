@@ -22,7 +22,7 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 - **December 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) was selected as a Best Paper at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/)!
 
-- **October 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) on federated prompt tuning was accepted for Oral Presentation at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
+- **October 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) on federated prompt tuning was selected for Oral Presentation at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
 
 - **Summer 2023:** I interned at Google Research, working with [Shanshan Wu](https://wushanshan.github.io/), [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/), and [Khe Chai Sim](https://scholar.google.com/citations?user=jnU62sUAAAAJ&hl=en) on federated prompt tuning of large language models.
 
