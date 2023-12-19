@@ -40,8 +40,6 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 For the most updated list of papers, please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en).
 
 
-{% include base_path %}
-
 <!---{% for post in site.publications reversed %}
           {% include archive-single.html %}
      {% endfor %}--->
