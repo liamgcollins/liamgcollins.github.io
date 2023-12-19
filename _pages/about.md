@@ -20,7 +20,7 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## News
 
-- **December 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) was selected as a Best Paper at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/)! [slides]()
+- **December 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) was selected as a Best Paper at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/)!
 
 - **October 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) on federated prompt tuning was accepted for Oral Presentation at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
 
@@ -48,7 +48,7 @@ For the most updated list of papers, please see my [Google Scholar profile](http
 
 **Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**  
 *LC, Shanshan Wu, Sewoong Oh, Khe Chai Sim*  
-FL@FM-NeurIPS'23  *Oral Presentation*
+FL@FM-NeurIPS'23  *Best Paper*
 [\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf)
 
 **Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks**  
