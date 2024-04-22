@@ -22,6 +22,8 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## News
 
+- **February 2023:** New [paper](https://arxiv.org/pdf/2402.11639.pdf) on in-context learning with transformers with softmax-activated self-attention.
+
 - **December 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) was selected as a Best Paper at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/)!
 
 - **October 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) on federated prompt tuning was selected for Oral Presentation at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
