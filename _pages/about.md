@@ -10,9 +10,9 @@ redirect_from:
 
 **About Me**
 
-I am a fifth-year PhD student at the University of Texas at Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). Before UT, I completed my undergrad at Princeton University where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/). I am broadly interested in many areas within AI/ML -- my research has explored topics including federated learning, meta-learning, multi-task learning, contrastive learning, and most recently, in-context learning and parameter-efficient fine-tuning of large language models (LLMs).
+I'm a fifth-year PhD student at UT Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I'm broadly interested in improving the learning capacity of machine learning models, especially in low-data and low-compute scenarios. This has led to work in a variety of areas, including federated learning, meta-learning, multi-task learning, contrastive learning, and most recently, in-context learning with and parameter-efficient fine-tuning of large language models (LLMs). Before UT, I completed my undergrad at Princeton where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/).
 
-**I am graduating in May 2024 and am currently on the industry job market.**
+**I am graduating in May 2024 and am currently on the job market.**
 
 My email is liamc at utexas dot edu.
 
