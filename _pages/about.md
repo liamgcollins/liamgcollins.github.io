@@ -12,9 +12,9 @@ redirect_from:
 
 I am a fifth-year PhD student at UT Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I'm broadly interested in improving the learning abilities of machine learning models, especially in low-data and low-compute scenarios. This has led to work in a variety of areas, including federated learning, meta-learning, multi-task learning, contrastive learning, and most recently, in-context learning with and parameter-efficient fine-tuning of large language models. Before UT, I completed my undergrad at Princeton where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/).
 
-**I am graduating in May 2024 and am currently on the job market.**
-
 My email is liamc at utexas dot edu.
+
+**I am graduating in May 2024 and am currently on the job market.**
 
 <!---
 My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
@@ -45,8 +45,8 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 For the most updated list of papers, please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en).
 
-**In-Context Learning with Transformers: Softmax Attention Adapts to Function Lipschitzness**
-*LC\*, Advait Parulekar\*, Aryan Mokhtari, Sujay Sanghavi, Sanjay Shakkottai*
+**In-Context Learning with Transformers: Softmax Attention Adapts to Function Lipschitzness** 
+*LC\*, Advait Parulekar\*, Aryan Mokhtari, Sujay Sanghavi, Sanjay Shakkottai* 
 \* co-first authors 
 arXiv preprint 
 [\[PDF\]](https://arxiv.org/pdf/2402.11639)
@@ -58,14 +58,13 @@ arXiv preprint
 **Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**  
 *LC, Shanshan Wu, Sewoong Oh, Khe Chai Sim*  
 Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023 
-FL@FM-NeurIPS'23  *Best Paper*
-[\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf)
+*Best Paper*
+[\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf) 
 
 **PerfedSI: A Framework for Personalized Federated Learning with Side Information**  
 *LC, Enmao Diao, Tanya Roosta, Jie Ding, Tao Zhang* 
 International Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022 
-FL@FM-NeurIPS'22 
-[\[PDF\]](https://openreview.net/pdf?id=HRZjvFkX-faD)
+[\[PDF\]](https://openreview.net/pdf?id=HRZjvFkX-faD) 
 
 
 ## Publications
