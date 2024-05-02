@@ -60,7 +60,7 @@ arXiv preprint
 Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023  **Best Paper**  
 [\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf) 
 
-**PerfedSI: A Framework for Personalized Federated Learning with Side Information**  
+**PerFedSI: A Framework for Personalized Federated Learning with Side Information**  
 *LC, Enmao Diao, Tanya Roosta, Jie Ding, Tao Zhang*  
 Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022  
 [\[PDF\]](https://openreview.net/pdf?id=HRZjvFkX-faD) 
