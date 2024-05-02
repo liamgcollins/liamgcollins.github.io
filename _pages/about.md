@@ -10,7 +10,7 @@ redirect_from:
 
 **About Me**
 
-I'm a fifth-year PhD student at UT Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I'm broadly interested in improving the learning abilities of machine learning models, especially in low-data and low-compute scenarios. This has led to work in a variety of areas, including federated learning, meta-learning, multi-task learning, contrastive learning, and most recently, in-context learning with and parameter-efficient fine-tuning of large language models. Before UT, I completed my undergrad at Princeton where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/).
+I am a fifth-year PhD student at UT Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I'm broadly interested in improving the learning abilities of machine learning models, especially in low-data and low-compute scenarios. This has led to work in a variety of areas, including federated learning, meta-learning, multi-task learning, contrastive learning, and most recently, in-context learning with and parameter-efficient fine-tuning of large language models. Before UT, I completed my undergrad at Princeton where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/).
 
 **I am graduating in May 2024 and am currently on the job market.**
 
@@ -62,8 +62,9 @@ FL@FM-NeurIPS'23  *Best Paper*
 [\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf)
 
 **PerfedSI: A Framework for Personalized Federated Learning with Side Information**  
-*LC, Enmao Diao, Tanya Roosta, Jie Ding, Tao Zhang*  
-FL@FM-NeurIPS'23 
+*LC, Enmao Diao, Tanya Roosta, Jie Ding, Tao Zhang* 
+International Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022 
+FL@FM-NeurIPS'22 
 [\[PDF\]](https://openreview.net/pdf?id=HRZjvFkX-faD)
 
 
