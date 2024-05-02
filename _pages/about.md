@@ -58,7 +58,7 @@ arXiv preprint
 **Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**  
 *LC, Shanshan Wu, Sewoong Oh, Khe Chai Sim*  
 Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023 
-*Best Paper*
+*Best Paper* 
 [\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf) 
 
 **PerfedSI: A Framework for Personalized Federated Learning with Side Information**  
