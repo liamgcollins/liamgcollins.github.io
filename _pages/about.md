@@ -22,6 +22,8 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## News
 
+- **May 2024:** Our [paper](https://arxiv.org/pdf/2307.06887.pdf) on multi-task learning with two-layer ReLU networks was accepted at ICML 2024. 
+
 - **February 2024:** New [paper](https://arxiv.org/pdf/2402.11639.pdf) on in-context learning with transformers with softmax-activated self-attention.
 
 - **December 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) was selected as a Best Paper at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/)!
@@ -39,10 +41,15 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 - **Summer 2022:** I interned at Amazon Alexa under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information. Our [paper](https://openreview.net/forum?id=HRZjvFkX-faD) was accepted at [FL-NeurIPS'22](https://federated-learning.org/fl-neurips-2022/). 
 
 
-## Papers
+## Preprints and Workshop Papers
 
 For the most updated list of papers, please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en).
 
+**In-Context Learning with Transformers: Softmax Attention Adapts to Function Lipschitzness**
+*LC\*, Advait Parulekar\*, Aryan Mokhtari, Sujay Sanghavi, Sanjay Shakkottai*
+\* co-first authors 
+arXiv preprint 
+[\[PDF\]](https://arxiv.org/pdf/2402.11639)
 
 <!---{% for post in site.publications reversed %}
           {% include archive-single.html %}
@@ -50,12 +57,21 @@ For the most updated list of papers, please see my [Google Scholar profile](http
 
 **Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**  
 *LC, Shanshan Wu, Sewoong Oh, Khe Chai Sim*  
+Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023 
 FL@FM-NeurIPS'23  *Best Paper*
 [\[PDF\]](https://arxiv.org/pdf/2310.04627.pdf)
 
+**PerfedSI: A Framework for Personalized Federated Learning with Side Information**  
+*LC, Enmao Diao, Tanya Roosta, Jie Ding, Tao Zhang*  
+FL@FM-NeurIPS'23 
+[\[PDF\]](https://openreview.net/pdf?id=HRZjvFkX-faD)
+
+
+## Publications
+
 **Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks**  
 *LC, Hamed Hassani, Mahdi Soltanolkotabi, Aryan Mokhtari, Sanjay Shakkottai*  
-arxiv preprint  
+ICML 2024 
 [\[PDF\]](https://arxiv.org/pdf/2307.06887.pdf)
      
 **InfoNCE Provably Learns Cluster-Preserving Representations**  
