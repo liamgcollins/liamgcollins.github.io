@@ -22,7 +22,11 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## News
 
-- **May 2024:** Our [paper](https://arxiv.org/pdf/2307.06887.pdf) on multi-task learning with two-layer ReLU networks was accepted at ICML 2024. 
+- **June 2024:** Our multi-task learning [paper](https://arxiv.org/pdf/2307.06887.pdf) was selected for Oral Presentation at ICML 2024.
+
+- **May 2024:** Our [paper](https://arxiv.org/pdf/2307.06887.pdf) on multi-task learning with two-layer ReLU networks was accepted at ICML 2024.
+
+- **April 2024:** Defended my thesis! 
 
 - **February 2024:** New [paper](https://arxiv.org/pdf/2402.11639.pdf) on in-context learning with transformers with softmax-activated self-attention.
 
