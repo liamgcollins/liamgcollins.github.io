@@ -70,7 +70,7 @@ Workshop on Federated Learning: Recent Advances and New Challenges in Conjunctio
 
 **Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks**  
 *LC, Hamed Hassani, Mahdi Soltanolkotabi, Aryan Mokhtari, Sanjay Shakkottai*  
-ICML 2024 
+ICML 2024 **Oral Presentation**
 [\[PDF\]](https://arxiv.org/pdf/2307.06887.pdf)
      
 **InfoNCE Provably Learns Cluster-Preserving Representations**  
