@@ -10,17 +10,23 @@ redirect_from:
 
 **About Me**
 
-I am a fifth-year PhD student at UT Austin co-advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I'm broadly interested in improving the learning abilities of machine learning models, especially in low-data and low-compute scenarios. This has led to work in a variety of areas, including federated learning, meta-learning, multi-task learning, contrastive learning, and most recently, in-context learning with and parameter-efficient fine-tuning of large language models. Before UT, I completed my undergrad at Princeton where I worked with [Yuxin Chen](https://yuxinchen2020.github.io/).
+I am currently a Research Scientist at [Snap Research](https://research.snap.com/) on the [User Modeling and Personalization (UMaP)](https://research.snap.com/team/user-modeling-and-personalization.html) team led by [Neil Shah](https://nshah.net/). My work focuses on learning user representations for downstream recommendation tasks from sequential and multi-modal interaction data. 
 
-My email is liamc at utexas dot edu.
+Before Snap, I completed my PhD at UT Austin in Summer 2024, where I studied a range of topics including in-context learning, multi-task learning and feature learning theory under the excellent supervision of [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I was also fortunate to hold internships at Google Research and Amazon during my PhD. I completed my undergrad at Princeton University where I had the pleasure of working with [Yuxin Chen](https://yuxinchen2020.github.io/).
 
-**I am graduating in May 2024 and am currently on the job market.**
+My email is lcollins2 at snap dot com.
+
+**We are currently recruiting interns to work on a variety of projects in recommendation, graph learning, and user modeling for 2025. Start dates are flexible. If interested please apply [online](https://snap.submittable.com/submit) and send me an email.**
 
 <!---
 My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
 --->
 
 ## News
+
+- **September 2024:** Started working at Snap!
+
+- **September 2024:** Our in-context learning [paper](https://www.arxiv.org/pdf/2402.11639.pdf) was selected for Spotlight Presentation at NeurIPS 2024.
 
 - **June 2024:** Our multi-task learning [paper](https://arxiv.org/pdf/2307.06887.pdf) was selected for Oral Presentation at ICML 2024.
 
@@ -30,7 +36,7 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 - **February 2024:** New [paper](https://arxiv.org/pdf/2402.11639.pdf) on in-context learning with transformers with softmax-activated self-attention.
 
-- **December 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) was selected as a Best Paper at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/)!
+- **December 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) was selected as a Best Paper at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
 
 - **October 2023:** Our [paper](https://arxiv.org/pdf/2310.04627.pdf) on federated prompt tuning was selected for Oral Presentation at [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/).
 
