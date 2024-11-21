@@ -60,7 +60,7 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## Papers
 
-For the most updated list of papers, please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en).
+Please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en) for the most updated list of papers.
 
 
 **In-Context Learning with Transformers: Softmax Attention Adapts to Function Lipschitzness**  
