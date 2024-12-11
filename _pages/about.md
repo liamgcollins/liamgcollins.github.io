@@ -24,6 +24,8 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 ## News
 
+- **November 2024** Selected as a top reviewer for NeurIPS 2024.
+
 - **September 2024:** Started working at Snap!
 
 - **September 2024:** Our in-context learning [paper](https://www.arxiv.org/pdf/2402.11639.pdf) was selected for Spotlight Presentation at NeurIPS 2024.
