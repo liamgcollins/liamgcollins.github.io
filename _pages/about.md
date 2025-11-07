@@ -16,7 +16,7 @@ Before Snap, I completed my PhD at UT Austin, where I was advised by [Aryan Mokh
 
 My email is lcollins2 at snap dot com.
 
-**We are currently recruiting interns to work on a variety of projects in recommendation, graph learning, and user modeling for 2025. Start dates are flexible. If interested please apply [online](https://snap.submittable.com/submit) and send me an email.**
+**We are currently recruiting interns to work on a variety of projects in recommendation, user modeling and graph learning for 2026. Start dates are flexible. If interested please send me an email, job link to appear soon.**
 
 [Last update: November 2025]
 <!---
