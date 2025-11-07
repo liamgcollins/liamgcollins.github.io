@@ -10,19 +10,32 @@ redirect_from:
 
 **About Me**
 
-I am currently a Research Scientist at [Snap Research](https://research.snap.com/) on the [User Modeling and Personalization (UMaP)](https://research.snap.com/team/user-modeling-and-personalization.html) team led by [Neil Shah](https://nshah.net/). My work focuses on learning user representations for downstream recommendation tasks from sequential and multi-modal interaction data. 
+I'm a Research Scientist at [Snap Research](https://research.snap.com/) on the [User Modeling and Personalization (UMaP)](https://research.snap.com/team/user-modeling-and-personalization.html) team led by [Neil Shah](https://nshah.net/). My research focuses on learning user representations for downstream recommendation tasks from sequential and multi-modal interaction data. 
 
-Before Snap, I completed my PhD at UT Austin, where I studied a range of topics including in-context learning, multi-task learning and feature learning theory under the excellent supervision of [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home). I was also fortunate to hold internships at Google Research and Amazon during my PhD. I completed my undergrad at Princeton University where I had the pleasure of working with [Yuxin Chen](https://yuxinchen2020.github.io/).
+Before Snap, I completed my PhD at UT Austin, where I was advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home) and studied in-context learning, multi-task learning and feature learning theory, among other topics. I did my undergrad at Princeton, where I was supervised by [Yuxin Chen](https://yuxinchen2020.github.io/).
 
 My email is lcollins2 at snap dot com.
 
 **We are currently recruiting interns to work on a variety of projects in recommendation, graph learning, and user modeling for 2025. Start dates are flexible. If interested please apply [online](https://snap.submittable.com/submit) and send me an email.**
 
+[Last update: November 2025]
 <!---
 My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
 --->
 
 ## News
+
+- **October 2025** Our paper ["Generative Recommendation with Semantic IDs: A Practitioner's Handbook"](https://arxiv.org/abs/2507.22224) won the Best Paper Award at CIKM 2025! Please take a look at our [public repo](https://github.com/snap-research/GRID), and see you in Seoul!
+
+- **October 2025** Our paper studying [data augmentation for generative recommendation](https://arxiv.org/abs/2509.13648) has been accepted to WSDM 2025. Congrats to [Geon](https://geonlee0325.github.io/)! See you in Boise.
+
+- **October 2025** We recently released a pre-print studying the [scaling laws of generative recommendation](https://arxiv.org/pdf/2509.25522)! Please take a look and suggestions are welcomed.
+
+- **September 2025** Our paper on [meta-learning for LoRA](https://arxiv.org/abs/2410.22264) was accepted to NeurIPS 2025. Congrats to [Jacob](https://jacob-block.github.io/) and [Sundar](https://sundararajan-s.github.io/)! See you in sunny San Diego.
+
+- **May 2025** Two of our papers are accepted to the research track at KDD 2025. One studies the [popularity bias of recommender systems](https://arxiv.org/abs/2505.11318) and the other studies [cross-domain sequential recommendation](https://arxiv.org/abs/2505.21811).
+
+- **April 2025** Our paper studying [universal user representation learning](https://arxiv.org/abs/2504.21838) via cross-domain user signals has been accepted to the industry track at SIGIR 2025.
 
 - **November 2024** Selected as a top reviewer for NeurIPS 2024.
 
