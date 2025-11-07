@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a Research Scientist at [Snap Research](https://research.snap.com/) on the [User Modeling and Personalization (UMaP)](https://research.snap.com/team/user-modeling-and-personalization.html) team led by [Neil Shah](https://nshah.net/). My research focuses on user representation learning from sequential and multi-modal interaction data. 
 
-Before Snap, I completed my PhD at UT Austin, where I was advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home) and studied in-context learning, multi-task learning and feature learning theory, among other ML theory topics. Prior to this I earned a B.S.E. from Princeton where I worked under [Yuxin Chen](https://yuxinchen2020.github.io/).
+I completed my PhD at UT Austin, where I was advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home) and studied in-context learning, multi-task learning and feature learning theory, among other ML theory topics. Prior to this I earned a B.S.E. from Princeton where I worked under [Yuxin Chen](https://yuxinchen2020.github.io/).
 
 My email is lcollins2 at snap dot com.
 
