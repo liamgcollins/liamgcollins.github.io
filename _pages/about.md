@@ -10,15 +10,17 @@ redirect_from:
 
 **About Me**
 
-I'm a Research Scientist at [Snap Research](https://research.snap.com/) on the [User Modeling and Personalization (UMaP)](https://research.snap.com/team/user-modeling-and-personalization.html) team led by [Neil Shah](https://nshah.net/). My research focuses on user representation learning from sequential and multi-modal interaction data. 
+I'm a Research Scientist at [Snap Research](https://research.snap.com/) on the [User Modeling and Personalization (UMaP)](https://research.snap.com/team/user-modeling-and-personalization.html) team led by [Neil Shah](https://nshah.net/). My current research focuses on LLM-based recommendation systems. 
 
-I completed my PhD at UT Austin, where I was advised by [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home) and studied in-context learning, multi-task learning and feature learning theory, among other ML theory topics. Prior to this I earned a B.S.E. from Princeton where I worked under [Yuxin Chen](https://yuxinchen2020.github.io/).
+I completed my PhD at UT Austin under the supervision of [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home), and studied in-context learning, multi-task learning and feature learning theory. Prior to this I earned a B.S.E. from Princeton where I worked under [Yuxin Chen](https://yuxinchen2020.github.io/).
 
 My email is lcollins2 at snap dot com.
 
+<!---
 **We are currently recruiting interns to work on a variety of projects in recommendation, user modeling and graph learning for 2026. Start dates are flexible. If interested please send me an email, job link to appear soon.**
+--->
 
-[Last update: November 2025]
+[Last update: July 2026]
 <!---
 My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
 --->
