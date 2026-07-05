@@ -3,29 +3,110 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 **About Me**
 
-I'm a Research Scientist at [Snap Research](https://research.snap.com/) on the [User Modeling and Personalization (UMaP)](https://research.snap.com/team/user-modeling-and-personalization.html) team led by [Neil Shah](https://nshah.net/). My current research focuses on LLM-based recommendation systems. 
+I'm a Research Scientist at [Snap Research](https://research.snap.com/) on the [User Modeling and Personalization (UMaP)](https://research.snap.com/team/user-modeling-and-personalization.html) team led by [Neil Shah](https://nshah.net/). My current research focuses on LLM-based and generative recommendation systems, personalization, sequential recommendation, retrieval, and representation learning.
 
 I completed my PhD at UT Austin under the supervision of [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) and [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/home), and studied in-context learning, multi-task learning and feature learning theory. Prior to this I earned a B.S.E. from Princeton where I worked under [Yuxin Chen](https://yuxinchen2020.github.io/).
 
 My email is lcollins2 at snap dot com.
 
-<!---
-**We are currently recruiting interns to work on a variety of projects in recommendation, user modeling and graph learning for 2026. Start dates are flexible. If interested please send me an email, job link to appear soon.**
---->
-
 [Last update: July 2026]
-<!---
-My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) (updated 11/2022).
---->
 
 ## News
+
+- **June 2026** New pre-print on [single-hop memorization in LLM-based generative recommendation](https://arxiv.org/abs/2606.17276).
+- **June 2026** New pre-print on [implicit reasoning for LLM-based generative recommendation](https://arxiv.org/abs/2606.14142).
+- **June 2026** Our paper on [understanding generative recommendation with Semantic IDs from a model-scaling view](https://arxiv.org/abs/2509.25522) was accepted to KDD 2026. Congrats to Jingzhe!
+- **April 2026** Our paper on [Semantic IDs for recommender systems at Snapchat](https://arxiv.org/abs/2604.03949) was accepted to SIGIR 2026.
+- **April 2026** New pre-print on [CoSearch: Joint Training of Reasoning and Document Ranking via Reinforcement Learning for Agentic Search](https://arxiv.org/abs/2604.17555).
+- **April 2026** Our paper on [hierarchical token prepending for decoder-based LLM embeddings](https://arxiv.org/abs/2511.14868) was accepted as an Oral Presentation to ACL 2026. Congrats to Xueying and Xingyue!
+- **March 2026** New survey on [RAG for LLM-based RecSys](https://hal.science/hal-05561909/document) -- to be presented as a tutorial by Sunwoo, Geon and Kyungho at KDD 2026!
+- **December 2025** New pre-print on [ID-text complementarity for sequential recommendation](https://arxiv.org/abs/2512.17820).
+- **November 2025** New pre-print on [masked diffusion for generative recommendation](https://arxiv.org/abs/2511.23021).
+- **October 2025** Our paper ["Generative Recommendation with Semantic IDs: A Practitioner's Handbook"](https://arxiv.org/abs/2507.22224) won the Best Paper Award at CIKM 2025! Please take a look at our [public repo](https://github.com/snap-research/GRID).
+- **October 2025** Our paper studying [data augmentation for generative recommendation](https://arxiv.org/abs/2509.13648) was accepted to WSDM 2026. Congrats to [Geon](https://geonlee0325.github.io/)!
+- **May 2025** Our paper on [cross-domain sequential recommendation](https://arxiv.org/abs/2505.21811) was accepted to KDD 2025.
+- **April 2025** Our paper studying [universal user representation learning](https://arxiv.org/abs/2504.21838) via cross-domain user signals was accepted to the industry track at SIGIR 2025.
+- **September 2024** Started working at Snap!
+
+## Papers
+
+Please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en) for the most updated list of papers.
+
+**On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies**
+*Sunwoo Kim1 Sunkyung Lee Clark Mingxuan Ju Donald Loveland Bhuvesh Kumar Kijung Shin Neil Shah Liam Collins*
+arXiv preprint, 2026
+[[PDF]](https://arxiv.org/pdf/2606.17276)
+
+**Implicit Reasoning for Large Language Model-based Generative Recommendation**  
+*Yinhan He, LC, Bhuvesh Kumar, Jundong Li, Neil Shah, Donald Loveland*  
+arXiv preprint, 2026  
+[[PDF]](https://arxiv.org/pdf/2606.14142)
+
+**CoSearch: Joint Training of Reasoning and Document Ranking via Reinforcement Learning for Agentic Search**  
+*Hansi Zeng, LC, Bhuvesh Kumar, Neil Shah, Hamed Zamani*  
+arXiv preprint, 2026  
+[[PDF]](https://arxiv.org/pdf/2604.17555) [[Code]](https://github.com/snap-research/CoSearch)
+
+**Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings**  
+*Xueying Ding, Xingyue Huang, Clark Ju, LC, Yozen Liu, Leman Akoglu, Neil Shah, Tong Zhao*  
+ACL 2026  
+[[PDF]](https://arxiv.org/pdf/2511.14868)
+
+**Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices**  
+*Clark Mingxuan Ju\*, Tong Zhao\*, Leonardo Neves, LC, Bhuvesh Kumar, Jiwen Ren, Lili Zhang, Wenfeng Zhuo, Vincent Zhang, Xiao Bai, Jinchao Li, Karthik Iyer, Zihao Fan, Yilun Xu, Yiwen Chen, Peicheng Yu, Manish Malik, Neil Shah*  
+\* equal contributions  
+SIGIR 2026  
+[[PDF]](https://arxiv.org/pdf/2604.03949) [[Code]](https://github.com/snap-research/GRID)
+
+**Sequential Data Augmentation for Generative Recommendation**  
+*Geon Lee, Bhuvesh Kumar, Clark Ju, Tong Zhao, Kijung Shin, Neil Shah, LC*  
+WSDM 2026  
+[[PDF]](https://arxiv.org/pdf/2509.13648) [[Code]](https://github.com/snap-research/GenPAS)
+
+**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**  
+*Jingzhe Liu, LC, Jiliang Tang, Tong Zhao, Neil Shah, Clark Ju*  
+KDD 2026  
+[[PDF]](https://arxiv.org/pdf/2509.25522)
+
+**Masked Diffusion for Generative Recommendation**  
+*Kulin Shah, Bhuvesh Kumar, Neil Shah, LC*  
+arXiv preprint, 2025  
+[[PDF]](https://arxiv.org/pdf/2511.23021) [[Code]](https://github.com/snap-research/MaskGR)
+
+**Exploiting ID-Text Complementarity via Ensembling for Sequential Recommendation**  
+*LC, Bhuvesh Kumar, Clark Ju, Tong Zhao, Donald Loveland, Leonardo Neves, Neil Shah*  
+arXiv preprint, 2025  
+[[PDF]](https://arxiv.org/pdf/2512.17820)
+
+**Generative Recommendation with Semantic IDs: A Practitioner's Handbook**  
+*Clark Ju, LC, Leonardo Neves, Bhuvesh Kumar, Louis Wang, Tong Zhao, Neil Shah*  
+CIKM 2025 **Best Paper Award**  
+[[PDF]](https://arxiv.org/pdf/2507.22224) [[Code]](https://github.com/snap-research/GRID)
+
+**Revisiting Self-Attention for Cross-Domain Sequential Recommendation**  
+*Mingxuan Ju, Leonardo Neves, Bhuvesh Kumar, LC, Tong Zhao, Yuwei Qiu, Qing Dou, Sohail Nizam, Sen Yang, Neil Shah*  
+KDD 2025  
+[[PDF]](https://arxiv.org/pdf/2505.21811) [[Code]](https://github.com/snap-research/AutoCDSR)
+
+**Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat**  
+*Mingxuan Ju, Leonardo Neves, Bhuvesh Kumar, LC, Tong Zhao, Yuwei Qiu, Qing Dou, Yang Zhou, Sohail Nizam, Rengim Ozturk, Yvette Liu, Sen Yang, Manish Malik, Neil Shah*  
+SIGIR 2025 Industry Track  
+[[PDF]](https://arxiv.org/pdf/2504.21838)
+
+
+
+
+
+
+
+<!---
 
 - **October 2025** Our paper ["Generative Recommendation with Semantic IDs: A Practitioner's Handbook"](https://arxiv.org/abs/2507.22224) won the Best Paper Award at CIKM 2025! Please take a look at our [public repo](https://github.com/snap-research/GRID), and see you in Seoul!
 
@@ -67,6 +148,7 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
 
 - **Summer 2022:** I interned at Amazon Alexa under the supervision of [Jie Ding](https://jding.org/) and [Tanya Roosta](https://www.amazon.science/author/tanya-g-roosta). My project studied personalized federated learning with side information. Our [paper](https://openreview.net/forum?id=HRZjvFkX-faD) was accepted at [FL-NeurIPS'22](https://federated-learning.org/fl-neurips-2022/). 
 
+--->
 
 
 <!---{% for post in site.publications reversed %}
@@ -74,7 +156,7 @@ My CV can be found [here](https://liamc2196.github.io/files/Liamc_CV_nov22.pdf) 
      {% endfor %}--->
 
 
-
+<!---
 ## Papers
 
 Please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en) for the most updated list of papers.
@@ -131,3 +213,4 @@ ICML 2021
 *LC, Aryan Mokhtari, Sanjay Shakkottai*  
 NeurIPS 2020    
 [\[PDF\]](https://arxiv.org/abs/2002.04766.pdf) [\[Code\]](https://github.com/lgcollins/tr-maml)
+--->
