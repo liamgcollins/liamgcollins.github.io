@@ -40,7 +40,7 @@ My email is lcollins2 at snap dot com.
 Please see my [Google Scholar profile](https://scholar.google.com/citations?user=MRLe02cAAAAJ&hl=en) for the most updated list of papers.
 
 **On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies**
-*Sunwoo Kim1 Sunkyung Lee Clark Mingxuan Ju Donald Loveland Bhuvesh Kumar Kijung Shin Neil Shah Liam Collins*
+*Sunwoo Kim, Sunkyung Lee, Clark Mingxuan Ju, Donald Loveland, Bhuvesh Kumar, Kijung Shin, Neil Shah, LC*
 arXiv preprint, 2026
 [[PDF]](https://arxiv.org/pdf/2606.17276)
 
